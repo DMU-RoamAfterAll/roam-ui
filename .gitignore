@@ -50,6 +50,7 @@ sysinfo.txt
 # Others
 *.apk
 *.aab
+*.dwlt
 
 # Unity cloud build
 .collab/
